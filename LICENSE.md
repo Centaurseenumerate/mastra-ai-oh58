@@ -1,4 +1,4 @@
-# 
+# Native Mastra themes. Featuring cloud-sync and real-time-inference — optimized for maximum performance and efficiency.
 
 
 
